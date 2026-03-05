@@ -43,9 +43,11 @@ CTF Data Tables is a cybersecurity web reference tool that helps users quickly i
 - Open index.html in browser  
 
 ---
-
 ## 🌍 Live Demo
-https://ghaithrb.github.io/CTF-Data-Tables/
+
+![Demo Screenshot](screenshot.png)
+
+👉 https://ghaithrb.github.io/CTF-Data-Tables/
 
 ---
 
