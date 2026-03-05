@@ -53,7 +53,7 @@ CTF Data Tables is a cybersecurity web reference tool that helps users quickly i
 
 ## 👨‍💻 Author
 Ghaith Riabi  
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/ghaithrb  
 
 ---
 
